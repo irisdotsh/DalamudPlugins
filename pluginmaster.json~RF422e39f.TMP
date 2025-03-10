@@ -21,7 +21,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/irisdotsh/EACTE/releases/download/v0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/irisdotsh/EACTE/releases/download/v0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/irisdotsh/EACTE/releases/download/v0.0.1/latest.zipp",
     "DownloadLinkUpdate": "https://github.com/irisdotsh/EACTE/releases/download/v0.0.1/latest.zip"
   },
   {
@@ -53,11 +53,6 @@
     "IconUrl": "",
     "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips.  Now with triple weaving!",
     "Changelog": "",
-    "AcceptsFeedback": true,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/irisdotsh/NoClippyX/releases/download/v0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/irisdotsh/NoClippyX/releases/download/v0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/irisdotsh/NoClippyX/releases/download/v0.0.1/latest.zip"
+    "AcceptsFeedback": true
   }
 ]
