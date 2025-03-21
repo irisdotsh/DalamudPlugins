@@ -1,15 +1,15 @@
 [
   {
     "Author": "irisdotsh",
-    "Name": "EACTE",
-    "InternalName": "EACTE",
-    "AssemblyVersion": "0.0.0.1",
+    "Name": "EndEncounter",
+    "InternalName": "EndEncounter",
+    "AssemblyVersion": "0.0.1",
     "Description": "Ends ACT encounters easily.",
     "ApplicableVersion": "any",
     "Tags": [
       "ACT",
       "Encounter",
-      "EACTE"
+      "EndEncounter"
     ],
     "DalamudApiLevel": 11,
     "LoadRequiredState": 0,
@@ -20,9 +20,10 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/irisdotsh/EACTE/releases/download/v0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/irisdotsh/EACTE/releases/download/v0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/irisdotsh/EACTE/releases/download/v0.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/irisdotsh/EndEncounter/releases/download/v0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/irisdotsh/EndEncounter/releases/download/v0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/irisdotsh/EndEncounter/releases/download/v0.0.1/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/irisdotsh/EndEncounter/refs/heads/main/Icons/icon1.png"
   },
   {
     "Author": "irisdotsh",
