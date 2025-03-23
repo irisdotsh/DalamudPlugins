@@ -63,16 +63,16 @@
   },
   {
     "Author": "irisdotsh",
-    "Name": "OBSPlugin",
-    "InternalName": "OBSPlugin",
+    "Name": "OBSPluginX",
+    "InternalName": "OBSPluginX",
     "AssemblyVersion": "1.0.0.0",
     "Description": "A plugin to control OBS by WebSocket, streaming with any UI modification is not recommended.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/irisdotsh/Dalamud-OBS",
     "Tags": [
-      "OBS",
-      "UI",
-      "Util"
+        "OBS",
+        "UI",
+        "Util"
     ],
     "DalamudApiLevel": 11,
     "LoadRequiredState": 0,
@@ -83,8 +83,8 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/irisdotsh/Dalamud-OBS/releases/download/v1.0.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/irisdotsh/Dalamud-OBS/releases/download/v1.0.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/irisdotsh/Dalamud-OBS/releases/download/v1.0.0.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/irisdotsh/Dalamud-OBS/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/irisdotsh/Dalamud-OBS/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/irisdotsh/Dalamud-OBS/releases/download/v1.0.0/latest.zip"
   }
 ]
